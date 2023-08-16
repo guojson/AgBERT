@@ -4,13 +4,14 @@ The first fine-tuned language model BERT for agricultural diseases and pests nam
 The fine-turned language model can be downloaded from the baidu cloud or google drive.
 
 ### Effectiveness of AgBERT
-<img src="data/original_bert.png" width="400" height="300">
-
-<img src="data/AgBERT.png" width="400" height="300">
-
+![original_bert](https://github.com/guojson/AgBERT/assets/44044833/d220ad27-ce59-43a4-b1df-f18d58294e84)
+(a) original BERT
+![AgBERT](https://github.com/guojson/AgBERT/assets/44044833/1669743b-410a-4f74-a206-5f19d0f22ae0)
+(b) AgBERT
 
 ### Compared with other models
-<img src="data/PLM.png" width="400" height="300">
 
+![PLM](https://github.com/guojson/AgBERT/assets/44044833/9656ac68-afc8-42ff-8834-10baecdce1ce)
 
-# Results
+# Thanks
+We updated our works based on https://github.com/qukequke/bert-crf-token_classification_ner.git.
