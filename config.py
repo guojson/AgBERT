@@ -17,7 +17,7 @@ model_dict = {
              ),
 }
 MODEL = 'bert'
-dir_name = 'agcner'
+dir_name = 'data/agcner/agcner'
 
 epochs = 30
 batch_size = 50
