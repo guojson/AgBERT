@@ -1,7 +1,7 @@
 # AgBERT
 The first fine-tuned language model BERT for agricultural diseases and pests named entity recognition
 # models
-The fine-turned language model can be downloaded from the [baidu cloud](https://pan.baidu.com/s/1odoJEUl6TgzFBu83LhHQFQ) with mask sdau or google drive.
+The fine-turned language model can be downloaded from the [baidu cloud](https://pan.baidu.com/s/1odoJEUl6TgzFBu83LhHQFQ) with mask sdau.
 
 ### Effectiveness of AgBERT
 ![original_bert](https://github.com/guojson/AgBERT/assets/44044833/d220ad27-ce59-43a4-b1df-f18d58294e84)
